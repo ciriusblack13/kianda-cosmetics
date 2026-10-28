@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kiandacosmetics.com/sitemap.xml
